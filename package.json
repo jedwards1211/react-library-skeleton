@@ -91,7 +91,7 @@
     "react-dom": "^15.4.2",
     "react-hot-loader": "^3.0.0-beta.2",
     "rimraf": "^2.5.4",
-    "validate-commit-msg": "^2.8.2"
+    "validate-commit-msg": "^2.9.0"
   },
   "peerDependencies": {
     "react": "0.14.x || ^15.0.0"
