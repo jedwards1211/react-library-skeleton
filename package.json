@@ -92,7 +92,7 @@
     "react-hot-loader": "^3.0.0-beta.2",
     "rimraf": "^2.5.4",
     "semantic-release": "^6.3.6",
-    "validate-commit-msg": "^2.8.2"
+    "validate-commit-msg": "2.12.1"
   },
   "peerDependencies": {
     "react": "0.14.x || ^15.0.0"
