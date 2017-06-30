@@ -82,7 +82,7 @@
     "eslint-watch": "^3.0.0",
     "flow-bin": "^0.46.0",
     "flow-watch": "^1.1.0",
-    "husky": "^0.13.1",
+    "husky": "^0.14.2",
     "istanbul": "^0.4.5",
     "jsdom": "^10.1.0",
     "jsdom-global": "^3.0.2",
