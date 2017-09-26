@@ -75,7 +75,7 @@
     "chai": "^3.5.0",
     "copy": "^0.3.0",
     "coveralls": "^2.11.16",
-    "enzyme": "^2.7.0",
+    "enzyme": "^3.0.0",
     "eslint": "^3.13.1",
     "eslint-plugin-flowtype": "^2.30.0",
     "eslint-plugin-react": "^7.0.0",
