@@ -886,10 +886,10 @@ babel-plugin-check-es2015-constants@^6.22.0:
   dependencies:
     babel-runtime "^6.22.0"
 
-babel-plugin-flow-react-proptypes@^17.0.0:
-  version "17.1.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-flow-react-proptypes/-/babel-plugin-flow-react-proptypes-17.1.0.tgz#332509038c52da1b3bd9aef97136a03133b21184"
-  integrity sha512-sruHdocT9a0byEWnZLVLcqRfK/z1qb9Q3qYBDSsE0x93Duk7JzDYFUp+kxAiczyPlxj1ZoAGAaVW6+PbagLnoQ==
+babel-plugin-flow-react-proptypes@^24.0.0:
+  version "24.1.2"
+  resolved "https://registry.yarnpkg.com/babel-plugin-flow-react-proptypes/-/babel-plugin-flow-react-proptypes-24.1.2.tgz#efd10966b609b01b50c4252c29759f1e333a2dc0"
+  integrity sha512-J5KhkxSQGrkaK1UdjeT5M0psD8OqKbnu20SmIQElUW7Eti1FDmdsfKtKAeQqHolhZ8wNbb23kZOaQt6OcKuqWg==
   dependencies:
     babel-core "^6.25.0"
     babel-template "^6.25.0"
