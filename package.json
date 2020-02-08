@@ -127,7 +127,7 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "rimraf": "^2.6.0",
-    "semantic-release": "^15.1.4"
+    "semantic-release": "^17.0.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.1.5",
