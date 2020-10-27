@@ -923,10 +923,10 @@
   resolved "https://registry.yarnpkg.com/@jedwards1211/commitlint-config/-/commitlint-config-1.0.1.tgz#dcd58e047f74d04c1d39817832022426de71315f"
   integrity sha512-oKxnkMy90YYxfHfNTIfIUOP7pyhNMgmP8ZNFTIIvflzsFXyLkbHwoTU0ETevmK+XTM8n4HvY+9m2ekSI7sRZbQ==
 
-"@jedwards1211/eslint-config-flow@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@jedwards1211/eslint-config-flow/-/eslint-config-flow-2.0.0.tgz#b4eda415303b0c16a12f6b8ea44d431a0d665c33"
-  integrity sha512-LAoaPZlWWVQkcn/1dDyUetOqpENmtjcHlts8dUnJ9MY0KxiMrYFDeup2KDllIXNvYWVpBLr9GUXo1RCYIi6gaA==
+"@jedwards1211/eslint-config-flow@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@jedwards1211/eslint-config-flow/-/eslint-config-flow-3.0.0.tgz#18907282c681247806fe85e79e285977fc9c4844"
+  integrity sha512-M09lZum68xW/Wv8gBqzmaPkb0pLY2CWTrMrT6iaavhjcOMcFLyoVHF1EpIZRIDU2f1zo1lBEcnXr8vt1Aj5tGw==
 
 "@jedwards1211/eslint-config-react@^4.0.0":
   version "4.0.0"
